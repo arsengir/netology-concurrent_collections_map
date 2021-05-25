@@ -3,7 +3,7 @@ import java.util.concurrent.*;
 import java.util.stream.IntStream;
 
 public class Main {
-    private static final int SIZE_MAP = 700;
+    private static final int SIZE_MAP = 7000000;
     private static final int COUNT_THREAD = 4;
 
     public static void main(String[] args) throws InterruptedException {
